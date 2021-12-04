@@ -4,7 +4,7 @@ http://localhost:3000/carro
 
 http://localhost:3000/pessoa
 
-http://localhost:3000/livro
+http://localhost:3000/computador
 
 
 # Getting Started with Create React App
